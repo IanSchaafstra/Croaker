@@ -1,0 +1,24 @@
+#pragma once
+
+#define DEFAULT_COLOR 201
+#define GRASS_COLOR 202
+#define ROAD_COLOR 203
+#define ROAD_STRIPE_COLOR 204
+#define FROG_COLOR 205
+#define WATER_COLOR 206
+#define LOG_COLOR 207
+#define CAR_COLOR_RED 208
+#define CAR_TIRE_COLOR 209
+#define CAR_GLASS_COLOR 210
+#define LOG_BROWN_COLOR 211
+#define LOG_BEIGE_COLOR 212
+#define CAR_COLOR_BLUE 213
+#define CAR_COLOR_MAGENTA 214
+
+#define LIGHT_GREEN 101
+#define COLOR_BROWN 102
+#define COLOR_GREY 103
+#define COLOR_LIGHT_BLUE 104
+#define COLOR_BEIGE 105
+
+void init_colors();
